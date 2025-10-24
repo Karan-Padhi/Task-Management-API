@@ -1,0 +1,5 @@
+{
+  "name": "Task Management API Frontend",
+  "description": "A responsive and visually appealing frontend application to manage tasks, mirroring the functionality of a RESTful API for a Task Management System. It allows users to create, read, update, and delete tasks in a Kanban-style board.",
+  "requestFramePermissions": []
+}
